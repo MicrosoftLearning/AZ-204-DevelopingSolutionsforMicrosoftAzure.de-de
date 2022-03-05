@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8f090334b20396e7fe34cbbc38b7c0abab298c7a
-ms.sourcegitcommit: e75c17571eeb658ade5cc6ba910a3f3fc66eaa10
+ms.openlocfilehash: 1c1ae64c8bad8446decd805774125a50f60b9b0e
+ms.sourcegitcommit: 40ae616e7aa9332ac6866f8e127ec824787ffe8f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2022
-ms.locfileid: "136897668"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "138468600"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Entwickeln von Lösungen für Microsoft Azure
 
@@ -13,12 +13,19 @@ ms.locfileid: "136897668"
 > **Hinweis**: Im Folgenden finden Sie neue Anweisungen zum Herunterladen der Datei *allfiles.zip*. Der automatisierte Buildprozess ist offline.
 
 - **Leiten Sie Kursteilnehmer** an [https://aka.ms/az204labs](https://aka.ms/az204labs) weiter, wo sie eine benutzerfreundliche Liste von Labanweisungen finden können.
-- **[AllFiles-Inhalt herunterladen](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220106.zip)**
+- **[AllFiles-Inhalt herunterladen](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220211.zip)**
 - **Sind Sie ein MCT?** – Lesen Sie unser [GitHub-Benutzerhandbuch für MCTs](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **Müssen Sie die Lab-Anweisungen manuell erstellen?** – Anweisungen sind im Repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) verfügbar 
 <!-- 
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**-->
+
+## <a name="security-issue---february-2022"></a>Sicherheitsproblem (Februar 2022)
+
+Einige Azure-Trainingslabs weisen die Kursteilnehmer*innen an, einen bestimmten Benutzernamen und ein bestimmtes Kennwort zu verwenden. Böswillige Akteure überprüfen ständig virtuelle Computer und versuchen, sich mit diesen Anmeldeinformationen anzumelden.
+Nach der Anmeldung verwenden Sie die Computer für Crypto Mining und könnten sie potenziell auch für andere Aktivitäten nutzen.
+
+**Korrektur:** Kursteilnehmer*innen sollten angewiesen werden, ein Kennwort ihrer Wahl zu verwenden. Kursteilnehmer*innen dürfen das Kennwort nicht in den Labanweisungen verwenden. Die Schritte im Lab werden diese Woche aktualisiert, um das Kennwort zu entfernen. 
 
 ## <a name="what-are-we-doing"></a>Was tun wir?
 
