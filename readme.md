@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a0384c399e26652e2516e9e6a16b6b892cd0e8b0
-ms.sourcegitcommit: 59c540737d0d7c14e6b56805afed30f1df1561f8
+ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
+ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "144341257"
+ms.lasthandoff: 06/23/2022
+ms.locfileid: "146565019"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Entwickeln von Lösungen für Microsoft Azure
 
@@ -15,8 +15,9 @@ ms.locfileid: "144341257"
 - **Leiten Sie Kursteilnehmer** an [https://aka.ms/az204labs](https://aka.ms/az204labs) weiter, wo sie eine benutzerfreundliche Liste von Labanweisungen finden können.
 - **Sind Sie ein MCT?** – Lesen Sie unser [GitHub-Benutzerhandbuch für MCTs](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **Müssen Sie die Lab-Anweisungen manuell erstellen?** – Anweisungen sind im Repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) verfügbar 
+- Ein [Projekt](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1) wurde hinzugefügt, um den Fortschritt bei Issues/PRs nachzuverfolgen.
 
-## <a name="security-issue---february-2022"></a>Sicherheitsproblem (Februar 2022)
+## <a name="security-issue---february-2022"></a>Sicherheitsproblem: Februar 2022
 
 Einige Azure-Trainingslabs weisen die Kursteilnehmer*innen an, einen bestimmten Benutzernamen und ein bestimmtes Kennwort zu verwenden. Böswillige Akteure überprüfen ständig virtuelle Computer und versuchen, sich mit diesen Anmeldeinformationen anzumelden.
 Nach der Anmeldung verwenden Sie die Computer für Crypto Mining und könnten sie potenziell auch für andere Aktivitäten nutzen.
