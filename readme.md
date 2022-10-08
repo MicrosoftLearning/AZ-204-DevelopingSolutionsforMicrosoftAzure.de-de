@@ -1,23 +1,14 @@
----
-ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
-ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2022
-ms.locfileid: "146565019"
----
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Entwickeln von Lösungen für Microsoft Azure
 
-**Alle Labanweisungen wurden am 15.10.2021 aktualisiert.** Wir schließen alle derzeit offenen Probleme und PRs und empfehlen allen, die neuen Anweisungen zu lesen und dann in Zukunft neue Änderungen zu übermitteln.
+**Die Übungsanweisungen, herunterladbaren Code und die VM wurden am 8.5.2022 auf .NET 6 aktualisiert. Wir überwachen Probleme im Zusammenhang mit diesem Update und arbeiten mit unseren Laborhostinganbietern zusammen, um alle Probleme zu testen und so schnell wie möglich zu beheben.**
 
 > **Hinweis:** Kursteilnehmer*innen müssen das Repository synchronisieren, wenn Sie keine AllFiles-Datei vom Labhostinganbieter erhalten haben. 
 
 - **Leiten Sie Kursteilnehmer** an [https://aka.ms/az204labs](https://aka.ms/az204labs) weiter, wo sie eine benutzerfreundliche Liste von Labanweisungen finden können.
 - **Sind Sie ein MCT?** – Lesen Sie unser [GitHub-Benutzerhandbuch für MCTs](https://microsoftlearning.github.io/MCT-User-Guide/).
 - **Müssen Sie die Lab-Anweisungen manuell erstellen?** – Anweisungen sind im Repository [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) verfügbar 
-- Ein [Projekt](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1) wurde hinzugefügt, um den Fortschritt bei Issues/PRs nachzuverfolgen.
 
-## <a name="security-issue---february-2022"></a>Sicherheitsproblem: Februar 2022
+## <a name="security-issue---february-2022"></a>Sicherheitsproblem (Februar 2022)
 
 Einige Azure-Trainingslabs weisen die Kursteilnehmer*innen an, einen bestimmten Benutzernamen und ein bestimmtes Kennwort zu verwenden. Böswillige Akteure überprüfen ständig virtuelle Computer und versuchen, sich mit diesen Anmeldeinformationen anzumelden.
 Nach der Anmeldung verwenden Sie die Computer für Crypto Mining und könnten sie potenziell auch für andere Aktivitäten nutzen.
