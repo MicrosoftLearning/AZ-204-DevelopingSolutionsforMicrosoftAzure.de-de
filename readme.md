@@ -1,6 +1,6 @@
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204: Entwickeln von Lösungen für Microsoft Azure
 
-**Die Übungsanweisungen, herunterladbaren Code und die VM wurden am 8.5.2022 auf .NET 6 aktualisiert. Wir überwachen Probleme im Zusammenhang mit diesem Update und arbeiten mit unseren Laborhostinganbietern zusammen, um alle Probleme zu testen und so schnell wie möglich zu beheben.**
+**Die Labanweisungen, der herunterladbare Code und die VM erhielten am 5.8.2022 ein Update auf .NET 6. Wir überwachen Probleme im Zusammenhang mit diesem Update und arbeiten mit unseren Labhostinganbietern zusammen, damit Probleme so schnell wie möglich gelöst werden können.**
 
 > **Hinweis:** Kursteilnehmer*innen müssen das Repository synchronisieren, wenn Sie keine AllFiles-Datei vom Labhostinganbieter erhalten haben. 
 
@@ -10,7 +10,7 @@
 
 ## <a name="security-issue---february-2022"></a>Sicherheitsproblem (Februar 2022)
 
-Einige Azure-Trainingslabs weisen die Kursteilnehmer*innen an, einen bestimmten Benutzernamen und ein bestimmtes Kennwort zu verwenden. Böswillige Akteure überprüfen ständig virtuelle Computer und versuchen, sich mit diesen Anmeldeinformationen anzumelden.
+Einige Azure-Trainingslabs weisen die Kursteilnehmer*innen an, einen bestimmten Benutzernamen und ein bestimmtes Kennwort zu verwenden. Böswillige Akteure scannen virtuelle Computer laufend auf Anmeldeinformationen und versuchen sich damit anzumelden.
 Nach der Anmeldung verwenden Sie die Computer für Crypto Mining und könnten sie potenziell auch für andere Aktivitäten nutzen.
 
 **Korrektur:** Kursteilnehmer*innen sollten angewiesen werden, ein Kennwort ihrer Wahl zu verwenden. Kursteilnehmer*innen dürfen das Kennwort nicht in den Labanweisungen verwenden. Die Schritte im Lab werden diese Woche aktualisiert, um das Kennwort zu entfernen. 
