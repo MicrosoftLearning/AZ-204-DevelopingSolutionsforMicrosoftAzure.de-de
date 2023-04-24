@@ -21,10 +21,10 @@ Links zu den einzelnen Labs sind nachfolgend aufgelistet.
 {% for activity in labs  %}{% if activity.lab.az204Module %}| {{ activity.lab.az204Module }} | [{{ activity.lab.az204Title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endif %}{% endfor %}
 
-## Demos
+## <a name="demos"></a>Demonstrationen
 
 {% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
-| Modul | Demo |
+| Modul | Demonstration |
 | --- | --- | 
 {% for activity in demos  %}| {{ activity.demo.az204Module }} | [{{ activity.demo.az204Title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
