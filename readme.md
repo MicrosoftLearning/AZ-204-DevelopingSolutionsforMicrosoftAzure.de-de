@@ -1,7 +1,5 @@
 # AZ-204: Entwickeln von Lösungen für Microsoft Azure
 
-**Die Labanweisungen, der herunterladbare Code und die VM erhielten am 5.8.2022 ein Update auf .NET 6. Wir überwachen Probleme im Zusammenhang mit diesem Update und arbeiten mit unseren Labhostinganbietern zusammen, damit Probleme so schnell wie möglich gelöst werden können.**
-
 > **Hinweis**: Kursteilnehmer*innen müssen das Repository synchronisieren, wenn sie keine AllFiles-Datei vom Labhostinganbieter erhalten haben. 
 
 - **Leiten Sie Kursteilnehmer** an [https://aka.ms/az204labs](https://aka.ms/az204labs) weiter, wo sie eine benutzerfreundliche Liste von Labanweisungen finden können.
